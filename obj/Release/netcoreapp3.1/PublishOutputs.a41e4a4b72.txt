@@ -1,0 +1,11 @@
+C:\Users\rajik\Desktop\MelodyMusic.exe
+C:\Users\rajik\Desktop\MelodyMusic.dll
+C:\Users\rajik\Desktop\MelodyMusic.deps.json
+C:\Users\rajik\Desktop\MelodyMusic.runtimeconfig.json
+C:\Users\rajik\Desktop\MelodyMusic.pdb
+C:\Users\rajik\Desktop\System.Data.SqlClient.dll
+C:\Users\rajik\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\rajik\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\rajik\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\rajik\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajik\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
